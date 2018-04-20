@@ -1,7 +1,8 @@
 # wm
-WM - a large scale water management model
+### A spatially distributed macro scale water management model to evaluate the impact of water management at continental to global scale, seasonal to inter-annual scale.
 
-## A spatially distributed macro scale water management model to evaluate the impact of water management at continental to global scale, seasonal to inter-annual scale.
+## Current Version
+[![DOI](https://zenodo.org/badge/130248784.svg)](https://zenodo.org/badge/latestdoi/130248784)
 
 ## Notice
 This repository uses the Git Large File Storage (LFS) extension (see https://git-lfs.github.com/ for details).  Please run the following command before cloning if you do not already have Git LFS installed:
